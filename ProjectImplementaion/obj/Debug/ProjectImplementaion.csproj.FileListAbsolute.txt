@@ -1,0 +1,68 @@
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\ProjectImplementaion.exe.config
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\ProjectImplementaion.exe
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\ProjectImplementaion.pdb
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.exe
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.pdb
+C:\Users\Lenovo\Desktop\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.AutentificationForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\ProjectImplementaion.exe.config
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\ProjectImplementaion.exe
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\ProjectImplementaion.pdb
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.AutentificationForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.exe
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.pdb
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.MainForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.ReportForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormRepotsCheck.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormProjectReport.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormSalary.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormProjectsFinancialReports.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormProject.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormPerformersForProject.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormCustomer.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormOrder.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormPosition.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormQualifiction.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\ProjectImplementaion.exe.config
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\ProjectImplementaion.exe
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\ProjectImplementaion.pdb
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.AutentificationForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormQualifiction.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormPosition.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormCustomer.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormPerformersForProject.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormProject.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormProjectReport.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormProjectsFinancialReports.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormRepotsCheck.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormOrder.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormSalary.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.MainForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.ReportForm.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.exe
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion – копія 12.06\ProjectImplementaion\obj\Debug\ProjectImplementaion.pdb
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormCategory.resources
+C:\Users\Lenovo\Desktop\Курсова з баз даних\ProjectImplementaion\ProjectImplementaion\obj\Debug\ProjectImplementaion.FormEmployee.resources
